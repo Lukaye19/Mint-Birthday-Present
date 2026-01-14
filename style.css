@@ -4,3 +4,13 @@
 .portrait {
   display: none;
 }
+
+.rotate-warning {
+  display: none;
+}
+.portrait .rotate-warning {
+  display: block;
+  font-size: 20px;
+  text-align: center;
+  padding: 30px;
+}
