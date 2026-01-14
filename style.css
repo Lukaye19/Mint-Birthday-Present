@@ -1,1 +1,6 @@
-
+.landscape {
+  display: block;
+}
+.portrait {
+  display: none;
+}
